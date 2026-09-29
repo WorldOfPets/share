@@ -9,5 +9,5 @@
 2. Задачи делаем только из учебника абрамяна в данном репозитории (290 шт.)
 ---
 1. Практическая по ИИ https://docs.google.com/document/d/1I6NrrLWux6l9cGBe7RboytcISd6RO03zmxFJTPGLyAk/edit?usp=sharing
-2. Практическая Python Модули https://docs.google.com/document/d/17XDzGZYumy1SUdlAEcFBuTYF3SwlYfR-550EcQbwnTw/edit?usp=sharing
+2. Практическая Python Модули https://docs.google.com/document/d/1W5wZRUXKe3jsb7gW_m0oy1QWP9V_iYghyqjfnklBBio/edit?usp=sharing
 ---
