@@ -12,3 +12,5 @@
 2. Практическая Python Модули https://docs.google.com/document/d/1W5wZRUXKe3jsb7gW_m0oy1QWP9V_iYghyqjfnklBBio/edit?usp=sharing
 3. Вайбкодинг https://docs.google.com/document/d/1gr8Rvgbi5zlrZn9D_8wh2mqR4FOU8wuFOwz2Jp2yM9U/edit?usp=sharing
 ---
+
+Лекция. Python работа с файлами и асинхронность: https://docs.google.com/document/d/1qrFH_VhAtxpnPw-DRrMnOeITCcS_3SFoZptWkJKj304/edit?usp=sharing 
