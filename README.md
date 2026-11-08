@@ -14,3 +14,4 @@
 ---
 
 Лекция. Python работа с файлами и асинхронность: https://docs.google.com/document/d/1qrFH_VhAtxpnPw-DRrMnOeITCcS_3SFoZptWkJKj304/edit?usp=sharing 
+### Опросник: https://docs.google.com/forms/d/e/1FAIpQLSc4PhwWlxxPwgaaSfsrrHgzmOa_0CxH-zDbciiyNjHhqT8HdQ/viewform?usp=dialog
